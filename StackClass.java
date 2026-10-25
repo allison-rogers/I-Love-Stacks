@@ -1,4 +1,5 @@
 //Most of this code was provided to students as part of the assignment. My code begins about 3/4 way through the file, and is denoted by START OF AL'S CODE
+//This file is only included as it is nessicary for the other file to run. I do not wish to take credit from my professor.
 
 public class StackClass<T> implements StackADT<T>
 {
